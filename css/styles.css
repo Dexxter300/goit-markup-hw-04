@@ -408,7 +408,7 @@ footer {
     fill: var(--light-slate);
 }
 .custom-svg {
-  fill: currentColor;
+  /* fill: currentColor; */
 }
 .customer-link:hover,
 .customer-link:focus {
