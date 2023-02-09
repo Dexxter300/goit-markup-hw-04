@@ -405,9 +405,10 @@ footer {
   height: 88px;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+    fill: var(--light-slate);
 }
 .custom-svg {
-  fill: var(--light-slate);
+  fill: currentColor;
 }
 .customer-link:hover,
 .customer-link:focus {
