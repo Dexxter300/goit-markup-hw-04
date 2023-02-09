@@ -416,6 +416,7 @@ footer {
   fill: var(--btn-active-cl);
   /* border: 1px solid var(--btn-active-cl); */
   border-radius: 4px;
+  border-color: var(--btn-active-cl);
 }
 .customer-link {
   display: flex;
