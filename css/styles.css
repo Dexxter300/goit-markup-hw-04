@@ -412,6 +412,7 @@ footer {
 .customer-link:hover,
 .customer-link:focus {
   fill: var(--btn-active-cl);
+  stroke: var(--btn-active-cl);
   border: 1px solid var(--btn-active-cl);
   border-radius: 4px;
 }
