@@ -156,6 +156,9 @@ body {
   background-size: cover;
   padding-top: 188px;
   padding-bottom: 188px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .hero-container {
 }
@@ -465,10 +468,9 @@ footer {
   margin-top: 24px;
   margin-left: 24px;
 }
-.row-item:hover,
-.row-item:focus {
-  border: 1px solid #e7e9fc;
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
+.row-link:hover,
+.row-link:focus {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .row-list-title {
   font-weight: 500;
